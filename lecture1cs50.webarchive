@@ -1,0 +1,481 @@
+bplist00�_WebMainResource�	
+_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameNameO��<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2022.2">
+  <style type="text/css">
+    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9}
+    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    li.li4 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000}
+    li.li7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Courier; color: #000000}
+    li.li8 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9}
+    span.s2 {-webkit-text-stroke: 0px #000000}
+    span.s3 {text-decoration: underline ; font-kerning: none}
+    span.s4 {font: 18.0px Times; text-decoration: underline ; font-kerning: none}
+    span.s5 {font-kerning: none}
+    span.s6 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+    span.s7 {font: 12.0px Courier; font-kerning: none}
+    span.s8 {font: 12.0px Courier; -webkit-text-stroke: 0px #000000}
+    span.s9 {font: 12.0px Times; font-kerning: none}
+    span.s10 {font: 12.0px Times; -webkit-text-stroke: 0px #000000}
+    span.s11 {font: 24.0px Times; text-decoration: underline ; font-kerning: none}
+    ul.ul1 {list-style-type: disc}
+    ul.ul2 {list-style-type: circle}
+    ul.ul3 {list-style-type: square}
+  </style>
+</head>
+<body>
+<ul class="ul1">
+  <li class="li1"><a href="https://cs50.harvard.edu/x/2021/notes/1/#c"><span class="s1">C</span></a></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#cs50-ide"><span class="s3">CS50 IDE</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#compiling"><span class="s3">Compiling</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#functions-and-arguments"><span class="s3">Functions and arguments</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#main-header-files"><span class="s3">main, header files</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#tools"><span class="s3">Tools</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#commands"><span class="s3">Commands</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#types-format-codes"><span class="s3">Types, format codes,</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#operators-limitations-truncation"><span class="s3">Operators, limitations, truncation</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#variables-syntactic-sugar"><span class="s3">Variables, syntactic sugar</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#conditions"><span class="s3">Conditions</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#boolean-expressions-loops"><span class="s3">Boolean expressions, loops</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#abstraction"><span class="s3">Abstraction</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#mario"><span class="s3">Mario</span></a></span></li>
+  <li class="li2"><span class="s2"><a href="https://cs50.harvard.edu/x/2021/notes/1/#memory-imprecision-and-overflow"><span class="s3">Memory, imprecision, and overflow</span></a></span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#c"><b>C</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">Today we’ll learn a new language, <b>C</b>: a programming language that has all the features of Scratch and more, but perhaps a little less friendly since it’s purely in text:<br>
+`#include &lt;stdio.h&gt;<br>
+int main(void) { printf("hello, world"); }`<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">Though at first, to borrow a phrase from MIT, trying to absorb all these new concepts may feel like drinking from a fire hose, be assured that by the end of the semester we’ll be empowered by and experienced at learning and applying these concepts.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">We can compare a lot of the programming features in C to blocks we’ve already seen and used in Scratch. The details of the syntax are far less important than the ideas, which we’ve already been introduced to.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">In our example, though the words are new, the ideas are exactly as same as the “when green flag clicked” and “say (hello, world)” blocks in Scratch:<br>
+<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">When writing code, we might consider the following qualities:</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"><b></b></span><span class="s5"><b>Correctness</b>, or whether our code works correctly, as intended.</span></li>
+    <li class="li5"><span class="s2"><b></b></span><span class="s5"><b>Design</b>, or a subjective measure of how well-written our code is, based on how efficient it is and how elegant or logically readable it is, without unnecessary repetition.</span></li>
+    <li class="li5"><span class="s2"><b></b></span><span class="s5"><b>Style</b>, or how aesthetically formatted our code is, in terms of consistent indentation and other placement of symbols. Differences in style don’t affect the correctness or meaning of our code, but affect how readable it is visually.</span></li>
+  </ul>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#cs50-ide"><b>CS50 IDE</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">To start writing our code quickly, we’ll use a tool for the course, <a href="https://ide.cs50.io/"><span class="s6"><b>CS50 IDE</b></span></a>, an <i>integrated development environment</i> which includes programs and features for writing code. CS50 IDE is built atop a popular cloud-based IDE used by general programmers, but with additional educational features and customization.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">We’ll open the IDE, and after logging in we’ll see a screen like this:<br>
+</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">The top panel, blank, will contain text files within which we can write our code.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">The bottom panel, a <b>terminal</b>window, will allow us to type in various commands and run them, including programs from our code above.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">Our IDE runs in the cloud and comes with a standard set of tools, but know that there are many desktop-based IDEs as well, offering more customization and control for different programming purposes, at the cost of greater setup time and effort.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">In the IDE, we’ll go to File &gt; New File, and then File &gt; Save to save our file as </span><span class="s7">hello.c</span><span class="s5">, indicating that our file will be code written in C. We’ll see that the name of our tab has indeed changed to </span><span class="s7">hello.c</span><span class="s5">, and now we’ll paste our code from above:<br>
+`#include &lt;stdio.h&gt;<br>
+int main(void) { printf("hello, world"); }`<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">To run our program, we’ll use a CLI, or <b>command-line interface</b>, a prompt at which we need to enter text commands. This is in contrast to a <b>graphical user interface</b>, or GUI, like Scratch, where we have images, icons, and buttons in addition to text.<br>
+</span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#compiling"><b>Compiling</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li5"><span class="s2"></span><span class="s5">In the terminal in the bottom pane of our IDE, we’ll <b>compile</b> our code before we can run it. Computers only understand binary, which is also used to represent instructions like printing something to the screen. Our <b>source code</b> has been written in characters we can read, but it needs to be compiled: converted to <b>machine code</b>, patterns of zeros and ones that our computer can directly understand.</span></li>
+  <li class="li5"><span class="s2"></span><span class="s5">A program called a <b>compiler</b> will take source code as input and produce machine code as output. In the CS50 IDE, we have access to a compiler already, through a command called <b>make</b>. In our terminal, we’ll type in </span><span class="s7">make hello</span><span class="s5">, which will automatically find our </span><span class="s7">hello.c</span><span class="s5"> file with our source code, and compile it into a program called </span><span class="s7">hello</span><span class="s5">. There will be some output, but no error messages in yellow or red, so our program compiled successfully.</span></li>
+  <li class="li5"><span class="s2"></span><span class="s5">To run our program, we’ll type in another command, </span><span class="s7">./hello</span><span class="s5">, which looks in the current folder, </span><span class="s7">.</span><span class="s5">, for a program called </span><span class="s7">hello</span><span class="s5">, and runs it.</span></li>
+  <li class="li5"><span class="s2"></span><span class="s5">The </span><span class="s7">$</span><span class="s5"> in the terminal is an indicator of where the prompt is, or where we can type in more commands.</span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#functions-and-arguments"><b>Functions and arguments</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">We’ll use the same ideas we’ve explored in Scratch.<br>
+</span></li>
+  <li class="li4"><span class="s2"><b></b></span><span class="s5"><b>Functions</b> are small actions or verbs that we can use in our program to do something, and the inputs to functions are called <b>arguments</b>.</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">For example, the “say” block in Scratch might have taken something like “hello, world” as an argument. In C, the function to print something to the screen is called </span><span class="s7">printf</span><span class="s5"> (with the </span><span class="s7">f</span><span class="s5"> standing for “formatted” text, which we’ll soon see). And in C, we pass in arguments within parentheses, as in </span><span class="s7">printf("hello, world");</span><span class="s5">. The double quotes indicate that we want to print out the letters </span><span class="s7">hello, world</span><span class="s5"> literally, and the semicolon at the end indicates the end of our line of code.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">Functions can also have two kinds of outputs:</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"><b></b></span><span class="s5"><b>side effects</b>, such as something printed to the screen,</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">and <b>return values</b>, a value that is passed back to our program that we can use or store for later.</span></li>
+    <ul class="ul3">
+      <li class="li5"><span class="s2"></span><span class="s5">The “ask” block in Scratch, for example, created an “answer” block.</span></li>
+    </ul>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">To get the same functionality as the “ask” block, we’ll use a <b>library</b>, or a set of code already written. The CS50 Library will include some basic, simple functions that we can use right away. For example, </span><span class="s7">get_string</span><span class="s5"> will ask the user for a <b>string</b>, or some sequence of text, and return it to our program. </span><span class="s7">get_string</span><span class="s5"> takes in some input as the prompt for the user, such as </span><span class="s7">What's your name?</span><span class="s5">, and we’ll have to save it in a variable with:<br>
+</span><span class="s7">string answer = get_string("What's your name? ");</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">In C, the single </span><span class="s7">=</span><span class="s5"> indicates <b>assignment</b>, or setting the value on the right to the variable on the left. And C will call the </span><span class="s7">get_string</span><span class="s5">function in order to get its output first.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">And we also need to indicate that our variable named </span><span class="s7">answer</span><span class="s5"> has a <b>type</b> of string, so our program knows to interpret the zeros and ones as text.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">Finally, we need to remember to add a semicolon to end our line of code.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">In Scratch, we also used the “answer” block within our “join” and “say” blocks. In C, we’ll do this:<br>
+</span><span class="s7">printf("hello, %s", answer);</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">The </span><span class="s7">%s</span><span class="s5"> is called a <b>format code</b>, which just means that we want the </span><span class="s7">printf</span><span class="s5"> function to substitute a variable where the </span><span class="s7">%s</span><span class="s5"> placeholder is. And the variable we want to use is </span><span class="s7">answer</span><span class="s5">, which we give to </span><span class="s7">printf</span><span class="s5"> as another argument, separated from the first one with a comma. (</span><span class="s7">printf("hello, answer")</span><span class="s5"> would literally print out </span><span class="s7">hello, answer</span><span class="s5"> every time.)</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">Back in the CS50 IDE, we’ll add what we’ve discovered:<br>
+`#include &lt;cs50.h&gt; #include &lt;stdio.h&gt;<br>
+int main(void) { string answer = get_string("What's your name? "); printf("hello, %s", answer); }`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">We need to tell the compiler to include the CS50 Library, with </span><span class="s7">#include &lt;cs50.h&gt;</span><span class="s5">, so we can use the </span><span class="s7">get_string</span><span class="s5"> function.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">We also have an opportunity to use better style here, since we could name our </span><span class="s7">answer</span><span class="s5"> variable anything, but a more descriptive name will help us understand its purpose better than a shorter name like </span><span class="s7">a</span><span class="s5"> or </span><span class="s7">x</span><span class="s5">.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">After we save the file, we’ll need to recompile our program with </span><span class="s7">make hello</span><span class="s5">, since we’ve only changed the source code but not the compiled machine code. Other languages or IDEs may not require us to manually recompile our code after we change it, but here we have the opportunity for more control and understanding of what’s happening under the hood.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">Now, </span><span class="s7">./hello</span><span class="s5"> will run our program, and prompt us for our name as intended. We might notice that the next prompt is printed immediately after our program’s output, as in </span><span class="s7">hello, Brian~/ $</span><span class="s5">. We can add a new line after our program’s output, so the next prompt is on its own line, with </span><span class="s7">\\n</span><span class="s5">:<br>
+</span><span class="s7">printf("hello, %s\\n", answer);</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s8"></span><span class="s7">\\n</span><span class="s5"> is an example of an <b>escape sequence</b>, or some text that represents some other text.</span></li>
+  </ul>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#main-header-files"><b>main, header files</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">The “when green flag clicked” block in Scratch starts what we would consider to be the main program. In C, the first line for the same is </span><span class="s7">int main(void)</span><span class="s5">, which we’ll learn more about over the coming weeks, followed by an open curly brace </span><span class="s7">{</span><span class="s5">, and a closed curly brace </span><span class="s7">}</span><span class="s5">, wrapping everything that should be in our program.<br>
+`int main(void) {<br>
+}`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">We’ll learn more about ways we can modify this line in the coming weeks, but for now we’ll simply use this to start our program.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"><b></b></span><span class="s5"><b>Header files</b> that end with </span><span class="s7">.h</span><span class="s5"> refer to some other set of code, like a library, that we can then use in our program. We <i>include</i> them with lines like </span><span class="s7">#include &lt;stdio.h&gt;</span><span class="s5">, for example, for the <i>standard input/output</i> library, which contains the </span><span class="s7">printf</span><span class="s5"> function.<br>
+</span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#tools"><b>Tools</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">With all of the new syntax, it’s easy for us to make mistakes or forget something. We have a few tools written by the staff to help us.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">We might forget to include a line of code, and when we try to compile our program, see a lot of lines of error messages that are hard to understand, since the compiler might have been designed for a more technical audience. </span><span class="s7"><b>help50</b></span><span class="s5"> is a command we can run to explain problems in our code in a more user-friendly way. We can run it by adding </span><span class="s7">help50</span><span class="s5"> to the front of a command we’re trying, like </span><span class="s7">help50 make hello</span><span class="s5">, to get advice that might be more understandable.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">It turns out that, in C, new lines and indentation generally don’t affect how our code runs. For example, we can change our </span><span class="s7">main</span><span class="s5"> function to be one line, </span><span class="s7">int main(void){printf("hello, world");}</span><span class="s5">, but it’s much harder to read, so we would consider it to have bad style. We can run </span><span class="s7"><b>style50</b></span><span class="s5">, as with </span><span class="s7">style50 hello.c</span><span class="s5">, with the name of the file of our source code, to see suggestions for new lines and indentation.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">Additionally, we can add <b>comments</b>, notes in our source code for ourselves or other humans that don’t affect how our code runs. For example, we might add a line like </span><span class="s7">// Greet user</span><span class="s5">, with two slashes </span><span class="s7">//</span><span class="s5"> to indicate that the line is a comment, and then write the purpose of our code or program to help us remember later on.<br>
+</span></li>
+  <li class="li4"><span class="s8"><b></b></span><span class="s7"><b>check50</b></span><span class="s5"> will check the correctness of our code with some automated tests. The staff writes tests specifically for some of the programs we’ll be writing in the course, and instructions for using </span><span class="s7">check50</span><span class="s5"> will be included in each problem set or lab as needed. After we run </span><span class="s7">check50</span><span class="s5">, we’ll see some output telling us whether our code passed relevant tests.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">The CS50 IDE also gives us the equivalent of our own computer in the cloud, somewhere on the internet, with our own files and folders. If we click the folder icon in the top left, we’ll see a file tree, a GUI of the files in our IDE:<br>
+</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">To open a file, we can just double-click it. </span><span class="s7">hello.c</span><span class="s5"> is the source code that we just wrote, and </span><span class="s7">hello</span><span class="s5"> itself will have lots of red dots, each of which are unprintable characters since they represent binary instructions for our computers.</span></li>
+  </ul>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#commands"><b>Commands</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">Since the CS50 IDE is a virtual computer in the cloud, we can also run commands available in Linux, an operating system like macOS or Windows.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">In the terminal, we can type in </span><span class="s7">ls</span><span class="s5">, short for list, to see a list of files and folder in the current folder:<br>
+</span><span class="s7">~/ $ ls hello* hello.c</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s8"></span><span class="s7">hello</span><span class="s5"> is in green with an asterisk to indicate that we can run it as a program.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">We can also <i>remove</i> files with </span><span class="s7">rm</span><span class="s5">, with a command like </span><span class="s7">rm hello</span><span class="s5">. It will prompt us for a confirmation, and we can respond with </span><span class="s7">y</span><span class="s5"> or </span><span class="s7">n</span><span class="s5"> for yes or no.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">With </span><span class="s7">mv</span><span class="s5">, or <i>move</i>, we can rename files. With </span><span class="s7">mv hello.c goodbye.c</span><span class="s5">, we’ve renamed our </span><span class="s7">hello.c</span><span class="s5"> file to be named </span><span class="s7">goodbye.c</span><span class="s5">.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">With </span><span class="s7">mkdir</span><span class="s5">, or <i>make directory</i>, we can create folders, or directories. If we run </span><span class="s7">mkdir lecture</span><span class="s5">, we’ll see a folder called </span><span class="s7">lecture</span><span class="s5">, and we can move files into directories with a command like </span><span class="s7">mv hello.c lecture/</span><span class="s5">.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">To <i>change directories</i> in our terminal, we can use </span><span class="s7">cd</span><span class="s5">, as with </span><span class="s7">cd lecture/</span><span class="s5">. Our prompt will change from </span><span class="s7">~/</span><span class="s5"> to </span><span class="s7">~/lecture/</span><span class="s5">, indicating that we’re in the </span><span class="s7">lecture</span><span class="s5"> directory inside </span><span class="s7">~</span><span class="s5">. </span><span class="s7">~</span><span class="s5"> stands for our home directory, or our account’s default, top-level folder.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">We can also use </span><span class="s7">..</span><span class="s5"> as shorthand for the parent, or containing folder. Within </span><span class="s7">~/lecture/</span><span class="s5">, we can run </span><span class="s7">mv hello.c ..</span><span class="s5"> to move it back up to </span><span class="s7">~</span><span class="s5">, since it’s the parent folder of </span><span class="s7">lecture/</span><span class="s5">. </span><span class="s7">cd ..</span><span class="s5">, similarly, will change our terminal’s directory to the current one’s parent. A single dot, </span><span class="s7">.</span><span class="s5">, refers to the current directory, as in </span><span class="s7">./hello</span><span class="s5">.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">Now that our </span><span class="s7">lecture/</span><span class="s5"> folder is empty, we can remove it with </span><span class="s7">rmdir lecture/</span><span class="s5">as well.<br>
+</span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#types-format-codes"><b>Types, format codes,</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li5"><span class="s2"></span><span class="s5">There are many data <b>types</b> we can use for our variables, which indicate to the computer what type of data they represent:</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s8"></span><span class="s7">bool</span><span class="s5">, a Boolean expression of either </span><span class="s7">true</span><span class="s5"> or </span><span class="s7">false</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">char</span><span class="s5">, a single ASCII character like </span><span class="s7">a</span><span class="s5"> or </span><span class="s7">2</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">double</span><span class="s5">, a floating-point value with more digits than a </span><span class="s7">float</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">float</span><span class="s5">, a floating-point value, or real number with a decimal value</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">int</span><span class="s5">, integers up to a certain size, or number of bits</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">long</span><span class="s5">, integers with more bits, so they can count higher than an </span><span class="s7">int</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">string</span><span class="s5">, a string of characters</span></li>
+  </ul>
+  <li class="li5"><span class="s2"></span><span class="s5">And the CS50 library has corresponding functions to get input of various types:</span></li>
+  <ul class="ul2">
+    <li class="li6"><span class="s2"></span><span class="s5">get_char</span></li>
+    <li class="li6"><span class="s2"></span><span class="s5">get_double</span></li>
+    <li class="li6"><span class="s2"></span><span class="s5">get_float</span></li>
+    <li class="li6"><span class="s2"></span><span class="s5">get_int</span></li>
+    <li class="li6"><span class="s2"></span><span class="s5">get_long</span></li>
+    <li class="li6"><span class="s2"></span><span class="s5">get_string</span></li>
+  </ul>
+  <li class="li5"><span class="s2"></span><span class="s5">For </span><span class="s7">printf</span><span class="s5">, too, there are different placeholders for each type:</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s8"></span><span class="s7">%c</span><span class="s5"> for chars</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">%f</span><span class="s5"> for floats, doubles</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">%i</span><span class="s5"> for ints</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">%li</span><span class="s5"> for longs</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">%s</span><span class="s5"> for strings</span></li>
+  </ul>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#operators-limitations-truncation"><b>Operators, limitations, truncation</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">There are several mathematical operators we can use, too:</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s8"></span><span class="s7">+</span><span class="s5"> for addition</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">`` for subtraction</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">`` for multiplication</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">/</span><span class="s5"> for division</span></li>
+    <li class="li5"><span class="s8"></span><span class="s7">%</span><span class="s5"> for remainder</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">We’ll make a new program, </span><span class="s7">addition.c</span><span class="s5">:<br>
+`#include &lt;cs50.h&gt; #include &lt;stdio.h&gt;<br>
+int main(void) { int x = get_int("x: ");<br>
+</span><span class="s7"><span class="Apple-converted-space">  </span>int y = get_int("y: ");</span></li>
+  <li class="li7"></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>printf("%i\\n", x + y);</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><br>
+</span><span class="s9">}`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">We’ll include header files for libraries we know we want to use, and then we’ll call </span><span class="s7">get_int</span><span class="s5"> to get integers from the user, storing them in variables named </span><span class="s7">x</span><span class="s5"> and </span><span class="s7">y</span><span class="s5">.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">Then, in </span><span class="s7">printf</span><span class="s5">, we’ll print a placeholder for an integer, </span><span class="s7">%i</span><span class="s5">, followed by a new line. Since we want to print out the sum of </span><span class="s7">x</span><span class="s5"> and </span><span class="s7">y</span><span class="s5">, we’ll pass in </span><span class="s7">x + y</span><span class="s5"> for </span><span class="s7">printf</span><span class="s5">to substitute in the string.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">We’ll save, run </span><span class="s7">make addition</span><span class="s5"> in the terminal, and then </span><span class="s7">./addition</span><span class="s5">to see our program working. If we type in something that’s not an integer, we’ll see </span><span class="s7">get_int</span><span class="s5"> asking us for an integer again. If we type in a really big number, like </span><span class="s7">4000000000</span><span class="s5">, </span><span class="s7">get_int</span><span class="s5"> will prompt us again too. This is because, like on many computer systems, an </span><span class="s7">int</span><span class="s5"> in CS50 IDE is 32 bits, which can only contain about four billion different values. And since integers can be positive or negative, the highest positive value for an </span><span class="s7">int</span><span class="s5"> can only be about two billion, with a lowest negative value of about negative two billion, for a total of about four billion total values.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">We can change our program to use the </span><span class="s7">long</span><span class="s5"> type:<br>
+`#include &lt;cs50.h&gt; #include &lt;stdio.h&gt;<br>
+int main(void) { long x = get_long("x: ");<br>
+</span><span class="s7"><span class="Apple-converted-space">  </span>long y = get_long("y: ");</span></li>
+  <li class="li7"></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>printf("%li\\n", x + y);</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><br>
+</span><span class="s9">}`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">Now we can type in bigger integers, and see a correct result as expected.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">Whenever we get an error while compiling, it’s a good idea to scroll up to the top to see the first error and fix that first, since sometimes a mistake early in the program will lead to the rest of the program being interpreted with errors as well.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">Let’s look at another example, </span><span class="s7">truncation.c</span><span class="s5">:<br>
+`#include &lt;cs50.h&gt; #include &lt;stdio.h&gt;<br>
+int main(void) { // Get numbers from user int x = get_int("x: "); int y = get_int("y: ");<br>
+</span><span class="s7"><span class="Apple-converted-space">  </span>// Divide x by y</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>float z = x / y;</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>printf("%f\\n", z);</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><br>
+</span><span class="s9">}`</span></li>
+  <ul class="ul2">
+    <li class="li4"><span class="s2"></span><span class="s5">We’ll store the result of </span><span class="s7">x</span><span class="s5"> divided by </span><span class="s7">y</span><span class="s5"> in </span><span class="s7">z</span><span class="s5">, a floating-point value, or real number, and print it out as a float too.<br>
+</span></li>
+    <li class="li4"><span class="s2"></span><span class="s5">But when we compile and run our program, we see </span><span class="s7">z</span><span class="s5"> printed out as whole numbers like </span><span class="s7">0.000000</span><span class="s5"> or </span><span class="s7">1.000000</span><span class="s5">. It turns out that, in our code, </span><span class="s7">x / y</span><span class="s5"> is divided as two integers <i>first</i>, so the result given back by the division operation is an integer as well. The result is <b>truncated</b>, with the value after the decimal point lost. Even though </span><span class="s7">z</span><span class="s5">is a </span><span class="s7">float</span><span class="s5">, the value we’re storing in it is already an integer.<br>
+</span></li>
+    <li class="li4"><span class="s2"></span><span class="s5">To fix this, we <b>cast</b>, or convert, our integers to floats before we divide them:<br>
+</span><span class="s7">float z = (float) x / (float) y;</span><span class="s5"><br>
+</span></li>
+    <li class="li4"><span class="s2"></span><span class="s5">The result will be a float as we expect, and in fact we can cast only one of </span><span class="s7">x</span><span class="s5"> or </span><span class="s7">y</span><span class="s5"> and get a float as well.<br>
+</span></li>
+  </ul>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#variables-syntactic-sugar"><b>Variables, syntactic sugar</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li5"><span class="s2"></span><span class="s5">In Scratch, we had blocks like “set [counter] to (0)” that set a <b>variable</b> to some value. In C, we would write </span><span class="s7">int counter = 0;</span><span class="s5"> for the same effect.</span></li>
+  <li class="li5"><span class="s2"></span><span class="s5">We can increase the value of a variable with </span><span class="s7">counter = counter + 1;</span><span class="s5">, where we look at the right side first, taking the original value of </span><span class="s7">counter</span><span class="s5">, adding 1, and then storing it into the left side (back into </span><span class="s7">counter</span><span class="s5"> in this case).</span></li>
+  <li class="li5"><span class="s2"></span><span class="s5">C also supports <b>syntactic sugar</b>, or shorthand expressions for the same functionality. In this case, we could equivalently say </span><span class="s7">counter += 1;</span><span class="s5"> to add one to </span><span class="s7">counter</span><span class="s5"> before storing it again. We could also just write </span><span class="s7">counter++;</span><span class="s5">, and we can learn this (and other examples) through looking at documentation or other references online.</span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#conditions"><b>Conditions</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">We can translate conditions, or “if” blocks, with:<br>
+</span><span class="s7">if (x &lt; y) { printf("x is less than y\\n"); }</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">Notice that in C, we use </span><span class="s7">{</span><span class="s5"> and </span><span class="s7">}</span><span class="s5">(as well as indentation) to indicate how lines of code should be nested.</span></li>
+  </ul>
+  <li class="li8"><span class="s10"></span><span class="s9">We can have “if” and “else” conditions:<br>
+</span><span class="s5">if (x &lt; y) { printf("x is less than y\\n"); } else { printf("x is not less than y\\n"); }</span><span class="s9"><br>
+</span></li>
+  <li class="li8"><span class="s10"></span><span class="s9">And even “else if”:<br>
+</span><span class="s5">if (x &lt; y) { printf("x is less than y\\n"); } else if (x &gt; y) { printf("x is greater than y\\n"); } else if (x == y) { printf("x is equal to y\\n"); }</span></li>
+  <ul class="ul2">
+    <li class="li4"><span class="s2"></span><span class="s5">Notice that, to compare two values in C, we use </span><span class="s7">==</span><span class="s5">, two equals signs.<br>
+</span></li>
+    <li class="li8"><span class="s10"></span><span class="s9">And, logically, we don’t need the </span><span class="s5">if (x == y)</span><span class="s9"> in the final condition, since that’s the only case remaining, so we can just say </span><span class="s5">else</span><span class="s9">:<br>
+</span><span class="s5">if (x &lt; y) { printf("x is less than y\\n"); } else if (x &gt; y) { printf("x is greater than y\\n"); } else { printf("x is equal to y\\n"); }</span><span class="s9"><br>
+</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">Let’s take a look at another example, </span><span class="s7">conditions.c</span><span class="s5">:<br>
+`#include &lt;cs50.h&gt; #include &lt;stdio.h&gt;<br>
+int main(void) { // Prompt user for x int x = get_int("x: ");<br>
+</span><span class="s7"><span class="Apple-converted-space">  </span>// Prompt user for y</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>int y = get_int("y: ");</span></li>
+  <li class="li7"></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>// Compare x and y</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>if (x &lt; y)</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>{</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">      </span>printf("x is less than y\\n");</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>}</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>else if (x &gt; y)</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>{</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">      </span>printf("x is greater than y\\n");</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>}</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>else</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>{</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">      </span>printf("x is equal to y\\n");</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>}</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><br>
+</span><span class="s9">}`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">We’ve included the conditions we just saw, along with two calls, or uses, of </span><span class="s7">get_int</span><span class="s5"> to get </span><span class="s7">x</span><span class="s5"> and </span><span class="s7">y</span><span class="s5">from the user.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">We’ll compile and run our program to see that it indeed works as intended.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">In </span><span class="s7">agree.c</span><span class="s5">, we can ask the user to confirm or deny something:<br>
+`#include &lt;cs50.h&gt; #include &lt;stdio.h&gt;<br>
+int main(void) { char c = get_char("Do you agree? ");<br>
+</span><span class="s7"><span class="Apple-converted-space">  </span>// Check whether agreed</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>if (c == 'Y' || c == 'y')</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>{</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">      </span>printf("Agreed.\\n");</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>}</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>else if (c == 'N' || c == 'n')</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>{</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">      </span>printf("Not agreed.\\n");</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>}</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><br>
+</span><span class="s9">}`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">With </span><span class="s7">get_char</span><span class="s5">, we can get a single character, and since we only have a single one in our program, it seems reasonable to call it </span><span class="s7">c</span><span class="s5">.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">We use two vertical bars, </span><span class="s7">||</span><span class="s5">, to indicate a logical “or”, whether either expression can be true for the condition to be followed. (Two ampersands, </span><span class="s7">&amp;&amp;</span><span class="s5">, indicate a logical “and”, where both conditions would have to be true.) And notice that we use two equals signs, </span><span class="s7">==</span><span class="s5">, to compare two values, as well as single quotes, </span><span class="s7">'</span><span class="s5">, to surround our values of single characters.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">If neither of the expressions are true, nothing will happen since our program doesn’t have a loop.</span></li>
+  </ul>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#boolean-expressions-loops"><b>Boolean expressions, loops</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">We can translate a “forever” block in Scratch with:<br>
+</span><span class="s7">while (true) { printf("hello, world\\n"); }</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">The </span><span class="s7">while</span><span class="s5"> keyword requires a condition, so we use </span><span class="s7">true</span><span class="s5"> as the Boolean expression to ensure that our loop will run forever. </span><span class="s7">while</span><span class="s5">will tell the computer to check whether the expression evaluates to </span><span class="s7">true</span><span class="s5">, and then run the lines inside the curly braces. Then it will repeat that until the expression isn’t true anymore. In this case, </span><span class="s7">true</span><span class="s5"> will always be true, so our loop is an <b>infinite loop</b>, or one that will run forever.</span></li>
+  </ul>
+  <li class="li8"><span class="s10"></span><span class="s9">We could do something a certain number of times with </span><span class="s5">while</span><span class="s9">:<br>
+</span><span class="s5">int i = 0; while (i &lt; 50) { printf("hello, world\\n"); i++; }</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">We create a variable, </span><span class="s7">i</span><span class="s5">, and set it to 0. Then, while </span><span class="s7">i</span><span class="s5"> is less than 50, we run some lines of code, including one where we add 1 to </span><span class="s7">i</span><span class="s5"> each time. This way, our loop will eventually end when </span><span class="s7">i</span><span class="s5"> reaches a value of 50.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">In this case, we’re using the variable </span><span class="s7">i</span><span class="s5"> as a counter, but since it doesn’t serve any additional purpose, we can simply name it </span><span class="s7">i</span><span class="s5">.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">Even though we <i>could</i> do the following and start counting at 1, by convention we should start at 0:<br>
+</span><span class="s7">int i = 1; while (i &lt;= 50) { printf("hello, world\\n"); i++; }</span><span class="s5"><br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">Another correct, but arguably less well-designed solution might be starting at 50 and counting backwards:<br>
+</span><span class="s7">int i = 50; while (i &gt; 0) { printf("hello, world\\n"); i--; }</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">In this case, the logic for our loop is harder to reason about without serving any additional purpose, and might even confuse readers.</span></li>
+  </ul>
+  <li class="li8"><span class="s10"></span><span class="s9">Finally, more commonly we can use the </span><span class="s5">for</span><span class="s9"> keyword:<br>
+</span><span class="s5">for (int i = 0; i &lt; 50; i++) { printf("hello, world\\n"); }</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">Again, first we create a variable named </span><span class="s7">i</span><span class="s5"> and set it to 0. Then, we check that </span><span class="s7">i &lt; 50</span><span class="s5"> every time we reach the top of the loop, before we run any of the code inside. If that expression is true, then we run the code inside. Finally, after we run the code inside, we use </span><span class="s7">i++</span><span class="s5"> to add one to </span><span class="s7">i</span><span class="s5">, and the loop repeats.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">The </span><span class="s7">for</span><span class="s5"> loop is more elegant than a </span><span class="s7">while</span><span class="s5"> loop in this case, since everything related to the loop is in the same line, and only the code we actually want to run multiple times is inside the loop.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">Notice that for many of these lines of code, like </span><span class="s7">if</span><span class="s5"> conditions and </span><span class="s7">for</span><span class="s5"> loops, we don’t put a semicolon at the end. This is just how the language of C was designed, many years ago, and a general rule is that only lines for actions or verbs have semicolons at the end.<br>
+</span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#abstraction"><b>Abstraction</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">We can write a program that prints </span><span class="s7">meow</span><span class="s5">three times:<br>
+`#include &lt;stdio.h&gt;<br>
+int main(void) { printf("meow\n"); printf("meow\n"); printf("meow\n"); }`<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">We could use a </span><span class="s7">for</span><span class="s5"> loop, so we don’t have to copy and paste so many lines:<br>
+`#include &lt;stdio.h&gt;<br>
+int main(void) { for (int i = 0; i &lt; 3; i++) { printf("meow\n"); } }`<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">We can move the </span><span class="s7">printf</span><span class="s5"> line to its own function, like our own puzzle piece:<br>
+`#include &lt;stdio.h&gt;<br>
+void meow(void) { printf("meow\n"); }<br>
+int main(void) { for (int i = 0; i &lt; 3; i++) { meow(); } }`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">We defined a function, </span><span class="s7">meow</span><span class="s5">, above our </span><span class="s7">main</span><span class="s5"> function.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">But conventionally, our </span><span class="s7">main</span><span class="s5"> function should be the first function in our program, so we need a few more lines:<br>
+`#include &lt;stdio.h&gt;<br>
+void meow(void);<br>
+int main(void) { for (int i = 0; i &lt; 3; i++) { meow(); } }<br>
+void meow(void) { printf("meow\n"); }`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">It turns out that we need to declare our </span><span class="s7">meow</span><span class="s5"> function first with a <b>prototype</b>, before we use it in </span><span class="s7">main</span><span class="s5">, and actually define it after. The compiler reads our source code from top to bottom, so it needs to know that </span><span class="s7">meow</span><span class="s5"> will exist later in the file.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">We can even change our </span><span class="s7">meow</span><span class="s5"> function to take in some input, </span><span class="s7">n</span><span class="s5">, and meow </span><span class="s7">n</span><span class="s5">times:<br>
+`#include &lt;stdio.h&gt;<br>
+void meow(int n);<br>
+int main(void) { meow(3); }<br>
+void meow(int n) { for (int i = 0; i &lt; n; i++) { printf("meow\n"); } }`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">The </span><span class="s7">void</span><span class="s5"> before the </span><span class="s7">meow</span><span class="s5">function means that it doesn’t return a value, and likewise in </span><span class="s7">main</span><span class="s5">we can’t do anything with the result of </span><span class="s7">meow</span><span class="s5">, so we just call it.</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">The abstraction here leads to better design, since we now have the flexibility to reuse our </span><span class="s7">meow</span><span class="s5"> function in multiple places in the future.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">Let’s look at another example of abstraction, </span><span class="s7">get_positive_int.c</span><span class="s5">:<br>
+`#include &lt;cs50.h&gt; #include &lt;stdio.h&gt;<br>
+int get_positive_int(void);<br>
+int main(void) { int i = get_positive_int(); printf("%i\n", i); }<br>
+// Prompt user for positive integer int get_positive_int(void) { int n; do { n = get_int("Positive Integer: "); } while (n &lt; 1); return n; }`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">We have our own function that calls </span><span class="s7">get_int</span><span class="s5"> repeatedly until we have some integer that’s <i>not</i> less than 1. With a do-while loop, our program will do something first, then check some condition, and repeat while the condition is true. A while loop, on the other hand, will check the condition first.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">We need to declare our integer </span><span class="s7">n</span><span class="s5">outside the do-while loop, since we need to use it after the loop ends. The <b>scope</b> of a variable in C refers to the context, or lines of code, within which it exists. In many cases, this will be the curly braces surrounding the variable.</span></li>
+    <li class="li5"><span class="s2"></span><span class="s5">Notice that the function </span><span class="s7">get_positive_int</span><span class="s5"> now starts with </span><span class="s7">int</span><span class="s5">, indicating that it has a return value of type </span><span class="s7">int</span><span class="s5">, and in </span><span class="s7">main</span><span class="s5"> we indeed store it in </span><span class="s7">i</span><span class="s5"> after calling </span><span class="s7">get_positive_int()</span><span class="s5">. In </span><span class="s7">get_positive_int</span><span class="s5">, we have a new keyword, </span><span class="s7">return</span><span class="s5">, to return the value </span><span class="s7">n</span><span class="s5"> to wherever the function was called.</span></li>
+  </ul>
+</ul>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#mario"><b>Mario</b><span class="s4"><b></b></span></a></span></h2>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">We might want a program that prints part of a screen from a video game like Super Mario Bros. In </span><span class="s7">mario.c</span><span class="s5">, we can print four question marks, simulating blocks:<br>
+`#include &lt;stdio.h&gt;<br>
+int main(void) { printf("????\n"); }`<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">With a loop, we can print a number of question marks, following them with a single new line after the loop:<br>
+`#include &lt;stdio.h&gt;<br>
+int main(void) { for (int i = 0; i &lt; 4; i++) { printf("?"); } printf("\n"); }`<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">We can get a positive integer from the user, and print out that number of question marks, by using </span><span class="s7">n</span><span class="s5"> for our loop:<br>
+`#include &lt;cs50.h&gt; #include &lt;stdio.h&gt;<br>
+int main(void) { // Get positive integer from user int n; do { n = get_int("Width: "); } while (n &lt; 1);<br>
+</span><span class="s7"><span class="Apple-converted-space">  </span>// Print out that many question marks</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>for (int i = 0; i &lt; n; i++)</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>{</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">      </span>printf("?");</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>}</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><span class="Apple-converted-space">  </span>printf("\\n");</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><br>
+</span><span class="s9">}`<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">And we can print a two-dimensional set of blocks with nested loops, one inside the other:<br>
+`#include &lt;cs50.h&gt; #include &lt;stdio.h&gt;<br>
+int main(void) { for (int i = 0; i &lt; 3; i++) { for (int j = 0; j &lt; 3; j++) { printf("#"); } printf("\n"); } }`</span></li>
+  <ul class="ul2">
+    <li class="li5"><span class="s2"></span><span class="s5">We have two nested loops, where the outer loop uses </span><span class="s7">i</span><span class="s5"> to do everything inside 3 times, and the inner loop uses </span><span class="s7">j</span><span class="s5">, a different variable, to do something 3 times for each of <i>those</i> times. In other words, the outer loop prints 3 “rows”, or lines, ending each of them with a new line, and the inner loop prints 3 “columns”, or </span><span class="s7">#</span><span class="s5"> characters, <i>without</i> a new line.</span></li>
+  </ul>
+</ul>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s3"><a href="https://cs50.harvard.edu/x/2021/notes/1/#memory-imprecision-and-overflow"><b>Memory, imprecision, and overflow</b><span class="s11"><b></b></span></a></span></h1>
+<ul class="ul1">
+  <li class="li4"><span class="s2"></span><span class="s5">Our computer has memory, in hardware chips called RAM, random-access memory. Our programs use that RAM to store data while they’re running, but that memory is finite.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">With </span><span class="s7">imprecision.c</span><span class="s5">, we can see what happens when we use floats:<br>
+`#include &lt;cs50.h&gt; #include &lt;stdio.h&gt;<br>
+int main(void) { float x = get_float("x: "); float y = get_float("y: ");<br>
+</span><span class="s7"><span class="Apple-converted-space">  </span>printf("%.50f\\n", x / y);</span></li>
+  <li class="li6"><span class="s2"></span><span class="s5"><br>
+</span><span class="s9">}`</span></li>
+  <ul class="ul2">
+    <li class="li4"><span class="s2"></span><span class="s5">With </span><span class="s7">%.50f</span><span class="s5">, we can specify the number of decimal places displayed.<br>
+</span></li>
+    <li class="li8"><span class="s10"></span><span class="s9">Hmm, now we get …<br>
+</span><span class="s5">x: 1 y: 10 0.10000000149011611938476562500000000000000000000000</span><span class="s9"><br>
+</span></li>
+    <li class="li4"><span class="s2"></span><span class="s5">It turns out that this is called <b>floating-point imprecision</b>, where we don’t have enough bits to store all possible values. With a finite number of bits for a </span><span class="s7">float</span><span class="s5">, we can’t represent all possible real numbers (of which there are an <i>infinite</i> number of), so the computer has to store the closest value it can. And this can lead to problems where even small differences in value add up, unless the programmer uses some other way to represent decimal values as accurately as needed.<br>
+</span></li>
+  </ul>
+  <li class="li4"><span class="s2"></span><span class="s5">Last week, when we had three bits and needed to count higher than seven (or </span><span class="s7">111</span><span class="s5">), we added another bit to get eight, </span><span class="s7">1000</span><span class="s5">. But if we only had three bits available, we wouldn’t have a place for the extra </span><span class="s7">1</span><span class="s5">. It would disappear and we would be back at </span><span class="s7">000</span><span class="s5">. This problem is called <b>integer overflow</b>, where an integer can only be so big before it runs out of bits.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">The Y2K problem arose because many programs stored the calendar year with just two digits, like 98 for 1998, and 99 for 1999. But when the year 2000 approached, the programs had to store only 00, leading to confusion between the years 1900 and 2000.<br>
+</span></li>
+  <li class="li4"><span class="s2"></span><span class="s5">In 2038, we’ll also run out of bits to track time, since many years ago some humans decided to use 32 bits as the standard number of bits to count the number of seconds since January 1st, 1970. But with 32 bits representing only positive numbers, we can only count up to about four billion, and in 2038 we’ll reach that limit unless we upgrade the software in all of our computer systems.<br>
+</span></li>
+</ul>
+</body>
+</html>
+Ytext/htmlUutf-8_file:///index.htmlP    ( : P n } ���������                           ��
